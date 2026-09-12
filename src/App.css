@@ -1,0 +1,13 @@
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Arial,sans-serif;background:#0f172a;color:#fff}
+.app{max-width:900px;margin:auto;padding:32px}
+.hero{text-align:center;margin-bottom:40px}
+.hero h1{font-size:3rem}
+.hero p{color:#cbd5e1;margin-top:10px}
+.fixtures h2{margin-bottom:20px}
+.card{background:#1e293b;padding:20px;border-radius:16px;margin-bottom:20px}
+.teams{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.prediction{display:flex;gap:10px;justify-content:center;align-items:center;margin:18px 0}
+.prediction input{width:60px;padding:10px;border:none;border-radius:8px;text-align:center;font-size:1rem}
+button{background:#16a34a;color:white;border:none;padding:12px 20px;border-radius:10px;cursor:pointer;width:100%}
+button:hover{background:#15803d}
