@@ -1,5 +1,3 @@
-# PL Predictor
-
 # ⚽ PL Predictor
 
 Predict Premier League matches and compete on a leaderboard.
