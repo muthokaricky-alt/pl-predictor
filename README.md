@@ -1,16 +1,32 @@
-# PL Predictor
+# ⚽ PL Predictor
 
-A React + Vite starter for a Premier League prediction app.
+Predict Premier League matches and compete on a leaderboard.
 
-## Run
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Current Status
+
+🚧 In development.
+
+## Roadmap
+
+- [x] Project setup
+- [x] Homepage
+- [ ] Match cards
+- [ ] Prediction system
+- [ ] Local storage
+- [ ] Leaderboard
+- [ ] Live EPL API
+- [ ] User authentication
+
+## Running locally
 
 ```bash
 npm install
 npm run dev
 ```
-
-### Next features
-- Save predictions
-- Leaderboard
-- Real EPL API
-- Authentication
